@@ -1,0 +1,27 @@
+#paragraph01 {
+    cursor: pointer;
+}
+
+#item-list li span {
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}
+  
+h1 {
+    text-align: center;
+  }
+  
+#guestlist {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+  }
+  
+#guestList li {
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 1px solid #ddd;
+  }
+
